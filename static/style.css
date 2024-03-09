@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+textarea {
+    width: 100%;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+}
